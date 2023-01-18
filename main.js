@@ -1,7 +1,7 @@
        /*===== Resize Navbar on Scroll =====*/
      window.onblur = function () { document.title = 'Please come back :('; }
 
-window.onfocus = function () { document.title = 'Wecome :)'; }
+window.onfocus = function () { document.title = 'Welcome :)'; }
     
  var navbar = document.querySelector(".navbar");
        // when the scroll is higher than 20 viewport height, add the sticky classs to the tag with a class navbar 
